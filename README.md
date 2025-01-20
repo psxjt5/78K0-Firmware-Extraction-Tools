@@ -19,5 +19,5 @@ The output of these pins can be recorded by a Logic Analyser.
 
 ## 78K/0 Output Parser (Python Script)
 
-This script takes the Logic Analyser output from Sigrok Pulseview, checks that the positional bits are sequencial, and then outputs the the firmware bits.
+This script takes the Logic Analyser output from Sigrok Pulseview, checks that the positional bits are sequencial, and then outputs the firmware bits.
 
