@@ -1,4 +1,4 @@
-# 78K/0 Firmware Extraction Tools
+# NEC/Reneasas 78K/0 Firmware Extraction Tools
 Tools to extract the firmware from NEC 78K/0 Microcontrollers.
 
 ## 78K/0 Firmware Extraction (Assembler Source)
