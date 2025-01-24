@@ -1,7 +1,7 @@
 # NEC/Reneasas 78K/0 Firmware Extraction Tools
 Tools to extract the firmware from NEC 78K/0 Microcontrollers.
 
-## 78K/0 Firmware Extraction (Assembler Source)
+## 78K/0 Firmware Extraction (Exploit) (Assembler Source)
 This file contains an assembly program that will output the contents of the entire memory map of a 78K/0.
 
 The following pins are utilised:
