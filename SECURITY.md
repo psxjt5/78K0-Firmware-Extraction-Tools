@@ -1,3 +1,3 @@
 # Security Policy
 
-Please create an issue on this repository for any questions or concerns
+Please create an issue on this repository for any questions or concerns.
